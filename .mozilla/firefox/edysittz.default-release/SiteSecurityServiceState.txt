@@ -7,7 +7,7 @@ octocaptcha.com:HSTS	0	18119	1597067766843,1,1,2
 avatars1.githubusercontent.com:HSTS	0	18119	1597089536158,1,0,2
 github.com:HSTS	0	18119	1597069700602,1,1,2
 blocklists.settings.services.mozilla.com:HSTS	0	18119	1597069365300,1,0,2
-shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	0	18119	1597067641297,1,1,2
+shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	0	18119	1597071252744,1,1,2
 collector.githubapp.com:HSTS	0	18119	1597069701761,1,0,2
 api.github.com:HSTS	0	18119	1597069702086,1,1,2
 avatars2.githubusercontent.com:HSTS	0	18119	1597089536086,1,0,2
