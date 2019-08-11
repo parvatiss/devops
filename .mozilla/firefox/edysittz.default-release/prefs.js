@@ -32,10 +32,10 @@ user_pref("browser.newtabpage.activity-stream.impressionId", "{f12d40aa-a4a2-4dc
 user_pref("browser.newtabpage.storageVersion", 1);
 user_pref("browser.pageActions.persistedActions", "{\"version\":1,\"ids\":[\"bookmark\",\"pinTab\",\"bookmarkSeparator\",\"copyURL\",\"emailLink\",\"addSearchEngine\",\"sendToDevice\",\"pocket\",\"screenshots_mozilla_org\"],\"idsInUrlbar\":[\"pocket\",\"bookmark\"]}");
 user_pref("browser.pagethumbnails.storage_version", 3);
-user_pref("browser.safebrowsing.provider.google4.lastupdatetime", "1565533479960");
-user_pref("browser.safebrowsing.provider.google4.nextupdatetime", "1565535288960");
-user_pref("browser.safebrowsing.provider.mozilla.lastupdatetime", "1565531651730");
-user_pref("browser.safebrowsing.provider.mozilla.nextupdatetime", "1565535251730");
+user_pref("browser.safebrowsing.provider.google4.lastupdatetime", "1565535295730");
+user_pref("browser.safebrowsing.provider.google4.nextupdatetime", "1565537121730");
+user_pref("browser.safebrowsing.provider.mozilla.lastupdatetime", "1565535252852");
+user_pref("browser.safebrowsing.provider.mozilla.nextupdatetime", "1565538852852");
 user_pref("browser.search.region", "IN");
 user_pref("browser.shell.mostRecentDateSetAsDefault", "1565533397");
 user_pref("browser.slowStartup.averageTime", 141239);
