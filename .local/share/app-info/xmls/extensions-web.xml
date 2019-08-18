@@ -2990,29 +2990,6 @@
     </metadata>
   </component>
   <component type="shell-extension">
-    <id>Space_dev-crea.com</id>
-    <name>Space</name>
-    <summary>GNOME Shell Extension</summary>
-    <description><p>Space disk usage</p></description>
-    <icon type="stock">application-x-addon-symbolic</icon>
-    <categories>
-      <category>Addon</category>
-      <category>ShellExtension</category>
-    </categories>
-    <project_license>GPL-2.0+</project_license>
-    <url type="homepage">https://extensions.gnome.org/extension/1170/space/</url>
-    <screenshots>
-      <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1170.png</image>
-      </screenshot>
-    </screenshots>
-    <metadata>
-      <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
-      <value key="GnomeSoftware::Plugin">shell-extensions</value>
-      <value key="shell-extensions::uuid">Space@dev-crea.com</value>
-    </metadata>
-  </component>
-  <component type="shell-extension">
     <id>Static_Workspaces_rmy.pobox.com</id>
     <name>Frippery Static Workspaces</name>
     <summary>GNOME Shell Extension</summary>
@@ -7093,7 +7070,7 @@
     <id>desktop-icons_csoriano</id>
     <name>Desktop Icons</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Add icons to the desktop</p></description>
+    <description><p>Adds icons to the desktop. If it fails with the trash icon enabled, just open a terminal and run: &apos;sudo setcap -r /usr/bin/gnome-shell&apos; (without the quotes). Then reboot, and it should be fixed. This seems to happen with Pop!OS and Arch Linux.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -7957,6 +7934,29 @@
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
       <value key="shell-extensions::uuid">drive-menu@gnome-shell-extensions.gcampax.github.com</value>
+    </metadata>
+  </component>
+  <component type="shell-extension">
+    <id>drop-down-terminal-x_bigbn.pro</id>
+    <name>Drop Down Terminal X</name>
+    <summary>GNOME Shell Extension</summary>
+    <description><p>Drop down terminal with tabs. Forked from extension &quot;Drop down terminal&quot; by zzrough</p><p>[23.04.2019] Debian build; zero paddings</p></description>
+    <icon type="stock">application-x-addon-symbolic</icon>
+    <categories>
+      <category>Addon</category>
+      <category>ShellExtension</category>
+    </categories>
+    <project_license>GPL-2.0+</project_license>
+    <url type="homepage">https://extensions.gnome.org/extension/1509/drop-down-terminal-x/</url>
+    <screenshots>
+      <screenshot type="default">
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1509_pnd13Qc.png</image>
+      </screenshot>
+    </screenshots>
+    <metadata>
+      <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
+      <value key="GnomeSoftware::Plugin">shell-extensions</value>
+      <value key="shell-extensions::uuid">drop-down-terminal-x@bigbn.pro</value>
     </metadata>
   </component>
   <component type="shell-extension">
