@@ -151,7 +151,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="29"/>
+      <release version="33"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -391,7 +391,7 @@
     <id>BingWallpaper_ineffable-gmail.com</id>
     <name>Bing Wallpaper Changer</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Lightweight GNOME shell extension to change your wallpaper every day to Microsoft Bing&apos;s wallpaper (the image you see when you visit Bing.com). It will also show a notification containing the title and the explanation of the image.</p><p> *Disclaimer*: this extension is unofficial and not affiliated with Bing or Microsoft in any way. Images are protected by copyright and are licensed only for use as wallpapers.</p><p>This extension is based extensively on the NASA APOD extension by Elinvention (https://github.com/Elinvention) and inspired by Bing Desktop Wallpaper Changer by Utkarsh Gupta (https://github.com/UtkarshGpta).</p><p>Features: * Fetches the Bing wallpaper of the day and sets as both lock screen and desktop wallpaper (these are both user selectable) * Optionally force a specific region (i.e. locale) * Automatically selects the highest resolution (and most appropriate wallpaper) in multiple monitor setups * Optionally clean up Wallpaper directory after between 1 and 7 days (delete oldest first) * Only attempts to download wallpapers when they have been updated * Doesn&apos;t poll continuously - only once per day and on startup (schedules a refresh when Bing is due to update) * Language support: English (en), German (de), Dutch (nl), Italian (it), Polish (pl), Chinese (zh_CN), French (fr_FR), Portugeuse (pt, pt_BR), Russian (ru_RU), Spanish (es), Korean (ko, ko_KR, ko_KP), Indonesian (id), Catalan (ca) and Norwegian Bokmål &amp; Nynorsk - a HUGE thanks to the translators</p><p>Please report bugs to the GitHub page below</p></description>
+    <description><p>Lightweight GNOME shell extension to change your wallpaper every day to Microsoft Bing&apos;s wallpaper (the image you see when you visit Bing.com). It will also show a notification containing the title and the explanation of the image.</p><p> *Disclaimer*: this extension is unofficial and not affiliated with Bing or Microsoft in any way. Images are protected by copyright and are licensed only for use as wallpapers.</p><p>This extension is based extensively on the NASA APOD extension by Elinvention (https://github.com/Elinvention) and inspired by Bing Desktop Wallpaper Changer by Utkarsh Gupta (https://github.com/UtkarshGpta).</p><p>Features: * Fetches the Bing wallpaper of the day and sets as both lock screen and desktop wallpaper (these are both user selectable) * Optionally force a specific region (i.e. locale) * Automatically selects the highest resolution (and most appropriate wallpaper) in multiple monitor setups * Optionally clean up Wallpaper directory after between 1 and 7 days (delete oldest first) * Only attempts to download wallpapers when they have been updated * Doesn&apos;t poll continuously - only once per day and on startup (schedules a refresh when Bing is due to update) * German, Dutch, Italian, Polish and Chinese translations</p><p>Please report bugs to the GitHub page below</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -405,7 +405,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="23"/>
+      <release version="24"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -1123,7 +1123,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="8"/>
+      <release version="9"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -1167,7 +1167,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="7"/>
+      <release version="8"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -1339,7 +1339,7 @@
   </component>
   <component type="shell-extension">
     <id>Internet-Speed-Meter_TH3L0N3C0D3R</id>
-    <name>Internet speed meter</name>
+    <name>Internet Speed Meter</name>
     <summary>GNOME Shell Extension</summary>
     <description><p>Simple and minimal internet speed meter for gnome shell.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
@@ -1355,7 +1355,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="3"/>
+      <release version="4"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -1544,6 +1544,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1143.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="4"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -1709,7 +1712,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="19"/>
+      <release version="20"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -2069,7 +2072,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="63"/>
+      <release version="64"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -2573,6 +2576,9 @@
     </categories>
     <project_license>GPL-2.0+</project_license>
     <url type="homepage">https://extensions.gnome.org/extension/1438/scroll-workspace/</url>
+    <releases>
+      <release version="3"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -2665,6 +2671,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_657.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="62"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -2839,7 +2848,7 @@
     <id>ShutdownTimer_neumann</id>
     <name>ShutdownTimer</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Shutdown your device after a specific time. This extension adds a submenu to the status area.</p><p>There is a settings menu where you can change the following:   - Maximum timer value   - Slider position   - Root mode: Uses &quot;pkexec shutdown&quot; command instead of default GNOME shutdown dialog. If monitor turns off while shutdown timer is running, then default timer in rootless mode gets interrupted. With root mode activated this can not happen, but you have to enter the root password.</p></description>
+    <description><p>Shutdown the device after a specific time.</p><p>Maximum timer value und slider position can be modified in the settings.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -2967,7 +2976,7 @@
     <id>SomaFm-Radio_alireza6677.gmail.com</id>
     <name>SomaFm internet radio</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Listen to SomaFm free internet radio with ease</p><p>* Featues: - 32 Channels - Volume slider - Favorites menu - Good sound quality - Supports most gnome-shell versions - Channel logos</p><p>* Requirements: - Gstreamer: You need to install gstreamer and multimedia codecs/plugins for your distro.</p><p>If you like SomaFM, Please consider supporting them: https://somafm.com/support/</p></description>
+    <description><p>Listen to SomaFm free internet radio using Gnome * Featues:</p><p>- 32 Channels - Volume slider - Favorites menu - Good sound quality - Supports most gnome-shell versions - Channel logos</p><p></p><p>* Requirements: - Gstreamer: You need to install gstreamer and multimedia codecs/plugins for your distro.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -2981,7 +2990,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="22"/>
+      <release version="24"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -3506,7 +3515,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="20"/>
+      <release version="26"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -3756,6 +3765,29 @@
     </metadata>
   </component>
   <component type="shell-extension">
+    <id>activities-button-text_nls1729</id>
+    <name>Activities Button Text</name>
+    <summary>GNOME Shell Extension</summary>
+    <description><p>Allows you to change the Activities Button Text with the Gnome Shell Extension Preferences tool.  It is useful for displaying the name of your computer when accessing multiple computers with a KVM switch.</p></description>
+    <icon type="stock">application-x-addon-symbolic</icon>
+    <categories>
+      <category>Addon</category>
+      <category>ShellExtension</category>
+    </categories>
+    <project_license>GPL-2.0+</project_license>
+    <url type="homepage">https://extensions.gnome.org/extension/298/activities-button-text/</url>
+    <screenshots>
+      <screenshot type="default">
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_298.png</image>
+      </screenshot>
+    </screenshots>
+    <metadata>
+      <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
+      <value key="GnomeSoftware::Plugin">shell-extensions</value>
+      <value key="shell-extensions::uuid">activities-button-text@nls1729</value>
+    </metadata>
+  </component>
+  <component type="shell-extension">
     <id>activities-config_nls1729</id>
     <name>Activities Configurator</name>
     <summary>GNOME Shell Extension</summary>
@@ -3769,7 +3801,7 @@
     <url type="homepage">https://extensions.gnome.org/extension/358/activities-configurator/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_358_UU7izDd.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_358_MI3beq4.png</image>
       </screenshot>
     </screenshots>
     <releases>
@@ -3799,7 +3831,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="14"/>
+      <release version="16"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -4400,7 +4432,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="6"/>
+      <release version="7"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -4667,7 +4699,7 @@
     <id>arc-menu_linxgem33.com</id>
     <name>Arc Menu</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>The new applications menu for Gnome 3.</p></description>
+    <description><p>A Traditional Application Menu for GNOME</p><p>== DEPENDENCIES ==</p><p>Please note: For ArcMenu to work properly, your GNOME Desktop must have the following dependencies installed (please see below).</p><p>sudo apt install gnome-shell-extensions gnome-menus gir1.2-gmenu-3.0</p><p>== UPGRADE ISSUES ==</p><p>If the upgrade isn&apos;t working, try uninstalling Arc Menu reloading GNOME shell and then downloading the latest version again.</p><p>Reload GNOME shell with == ALT + F2 == type &quot;r&quot; == Press Enter</p><p>== REPORTING ISSUES ==</p><p>Please Note: We do not offer support on extensions.gnome.org, so please open a issue on our GitLab issue tracker for support (Extension homepage URL below).</p><p> ArcMenu is developed and maintained by @LinxGem33 and @AndrewZaech.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -4677,11 +4709,11 @@
     <url type="homepage">https://extensions.gnome.org/extension/1228/arc-menu/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1228_9WEY2AI.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1228_rtwJv28.png</image>
       </screenshot>
     </screenshots>
     <releases>
-      <release version="22"/>
+      <release version="40"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -4707,7 +4739,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="31"/>
+      <release version="32"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -5113,6 +5145,32 @@
     </metadata>
   </component>
   <component type="shell-extension">
+    <id>azan_faissal.bensefia.id</id>
+    <name>Azan Islamic Prayer Times</name>
+    <summary>GNOME Shell Extension</summary>
+    <description><p>Azan is an Islamic prayer times extension for Gnome Shell based on the extension by Fahrinh.</p><p>Features - List compulsory prayer times  Optionally display Imsak, Sunrise, Sunset and Midnight - Show remaining time for the upcoming prayer. - Show current date in Hijri calendar. - Display a notification when it&apos;s time for prayer. - Automatic Geoclue2 location detection - Show times in 24 hour and 12 hour formats</p></description>
+    <icon type="stock">application-x-addon-symbolic</icon>
+    <categories>
+      <category>Addon</category>
+      <category>ShellExtension</category>
+    </categories>
+    <project_license>GPL-2.0+</project_license>
+    <url type="homepage">https://extensions.gnome.org/extension/1510/azan-islamic-prayer-times/</url>
+    <screenshots>
+      <screenshot type="default">
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1510.png</image>
+      </screenshot>
+    </screenshots>
+    <releases>
+      <release version="7"/>
+    </releases>
+    <metadata>
+      <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
+      <value key="GnomeSoftware::Plugin">shell-extensions</value>
+      <value key="shell-extensions::uuid">azan@faissal.bensefia.id</value>
+    </metadata>
+  </component>
+  <component type="shell-extension">
     <id>background-logo_marketing.fedoraproject.org</id>
     <name>Background Logo</name>
     <summary>GNOME Shell Extension</summary>
@@ -5238,7 +5296,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="3"/>
+      <release version="4"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -5535,7 +5593,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="44"/>
+      <release version="48"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -5633,7 +5691,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="5"/>
+      <release version="6"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -5945,6 +6003,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1168_zUWFLn9.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="9"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -6173,6 +6234,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_779_z38Ay1y.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="33"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -6373,7 +6437,7 @@
     <url type="homepage">https://extensions.gnome.org/extension/1500/containers/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1500_sp4bgnn.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1500_Q0rsqAP.png</image>
       </screenshot>
     </screenshots>
     <releases>
@@ -6438,7 +6502,7 @@
     <id>cpufreq_konkor</id>
     <name>cpufreq</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Gnome CPU Frequency Monitor and Governor Manager.</p><p>This is a lightweight CPU frequency scaling monitor and powerful CPU management tool. The extension is using standard cpufreq kernel modules to collect information and manage governors. It needs root permission to able changing governors.</p><p>Features: ⚫ Compatible with many hardware architectures; ⚫ CPU Frequency monitoring; ⚫ CPU Governor management; ⚫ CPU Frequency speed limits; ⚫ CPU Boost supporting; ⚫ CPU Power on/off supporting; ⚫ Saving/Restoring settings...</p><p>For more information and how-to see README.md</p></description>
+    <description><p>System Monitor and Power Manager.</p><p>This is a lightweight system monitor and power management tool. It needs root permission to able changing governors.</p><p>Features: ⚫ Compatible with many hardware architectures; ⚫ CPU Frequency monitoring; ⚫ CPU Governor management; ⚫ CPU Frequency speed limits; ⚫ CPU Boost supporting; ⚫ CPU Core Power on/off; ⚫ Saving/Restoring settings...</p><p>For more information and how-to see README.md</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -6452,7 +6516,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="40"/>
+      <release version="42"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -6524,7 +6588,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="13"/>
+      <release version="17"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -6850,7 +6914,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="19"/>
+      <release version="26"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -6989,7 +7053,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="16"/>
+      <release version="17"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -7070,7 +7134,7 @@
     <id>desktop-icons_csoriano</id>
     <name>Desktop Icons</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Adds icons to the desktop. If it fails with the trash icon enabled, just open a terminal and run: &apos;sudo setcap -r /usr/bin/gnome-shell&apos; (without the quotes). Then reboot, and it should be fixed. This seems to happen with Pop!OS and Arch Linux.</p></description>
+    <description><p>Add icons to the desktop</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -7201,7 +7265,7 @@
     <id>dim-on-battery_nailfarmer.nailfarmer.com</id>
     <name>Dim On Battery Power</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Automatically dims your laptop screen when it is running on battery power.</p></description>
+    <description><p>Automatically dims the screen when the machine is running on battery power.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -7215,7 +7279,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="19"/>
+      <release version="21"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -7265,6 +7329,24 @@
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
       <value key="shell-extensions::uuid">disable-animations-on-battery@rliang.github.com</value>
+    </metadata>
+  </component>
+  <component type="shell-extension">
+    <id>disable-gestures_hitevision.com.es</id>
+    <name>Disable Gestures</name>
+    <summary>GNOME Shell Extension</summary>
+    <description><p>Disable all gnome built in gestures. Useful for kiosks and touch screen apps.</p></description>
+    <icon type="stock">application-x-addon-symbolic</icon>
+    <categories>
+      <category>Addon</category>
+      <category>ShellExtension</category>
+    </categories>
+    <project_license>GPL-2.0+</project_license>
+    <url type="homepage">https://extensions.gnome.org/extension/1331/disable-gestures/</url>
+    <metadata>
+      <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
+      <value key="GnomeSoftware::Plugin">shell-extensions</value>
+      <value key="shell-extensions::uuid">disable-gestures@hitevision.com.es</value>
     </metadata>
   </component>
   <component type="shell-extension">
@@ -7826,7 +7908,7 @@
     <url type="homepage">https://extensions.gnome.org/extension/964/do-not-disturb-button/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_964_dfQvioo.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_964_Y4T4xsK.png</image>
       </screenshot>
     </screenshots>
     <releases>
@@ -7940,7 +8022,7 @@
     <id>drop-down-terminal-x_bigbn.pro</id>
     <name>Drop Down Terminal X</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Drop down terminal with tabs. Forked from extension &quot;Drop down terminal&quot; by zzrough</p><p>[23.04.2019] Debian build; zero paddings</p></description>
+    <description><p>A GNOME Shell drop down terminal with extra feautures.</p><p>▒█▀▀▄ ▒█▀▀▄ ▀▀█▀▀ ▀▄▒▄▀  ▒█░▒█ ▒█░▒█ ░▒█░░ ░▒█░░  ▒█▄▄▀ ▒█▄▄▀ ░▒█░░ ▄▀▒▀▄</p><p>Includes: tabs, multi-monitor, font scaling support; [Focus out] / [Escape pressed] events for hide.</p><p>February 2020 updates: - Multi monitor enhancements - Workarea of current monitor for maximized mode</p><p>January 2020 updates: - Fixed fullscreen window priority - Keybinding to maximize terminal window; - Keybinding to manually focus terminal window; - Scrolling the volume indicator not affecting terminal;</p><p>November 2019 updates: - Added support for the ~/.ssh/config file. Now you can get quick access to any your ssh host in one click; - Added support for ~/.config/drop-down-terminal-x/shortcuts file Now you can define any action that will become available in a special drop-down list for quick launch. This small improvement can improve your productivity See file format at https://github.com/bigbn/drop-down-terminal-x - Added option to prevent terminal jumps down to the bottom on long command output</p><p>Special thanks to: - Osman Alperen Elhan (https://github.com/oae) - Balder Claassen (https://github.com/balderclaassen) - Adrien Pyke (https://github.com/kufii) - Alan J Carvajal (https://github.com/ajcarvajal) - Massimo Mund (https://github.com/masmu) - Jakub Żywiec (https://github.com/jakubzet) - Mattias Eriksson (https://github.com/snaggen) for active contribution.</p><p>Based on original extension &quot;gs-extensions-drop-down-terminal&quot; from Stéphane Démurget (https://github.com/zzrough)</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -7950,7 +8032,7 @@
     <url type="homepage">https://extensions.gnome.org/extension/1509/drop-down-terminal-x/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1509_pnd13Qc.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1509_15QOLfT.png</image>
       </screenshot>
     </screenshots>
     <metadata>
@@ -8035,7 +8117,7 @@
     <id>dynamic-panel-transparency_rockon999.github.io</id>
     <name>Dynamic Panel Transparency</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Miss dynamic panel transparency in 3.32? Try the original dynamic panel extension on all recent Gnome versions and with much more customization! This extension will fade your top panel to nothingness when there are no maximized windows present! Never again will the panel be abruptly darkened.</p><p>May be incompatible with some extensions that make extensive changes to the panel.</p><p>If your theme isn&apos;t working correctly with this extension enable &apos;Remove Excessive Panel Styling&apos; in the Background section of preferences.</p><p>v21 is a legacy update for Gnome 3.14-3.22.2 v28 is for Gnome 3.22.3+</p><p>New in v31 - Fixes errors in 3.24 on lock and unlock. - Finalizes support for 3.28.</p><p>New in v30 - Fixes support for some 3.28 systems.</p><p>New in v29 - Initial 3.32 support.</p><p>General Features: - Theme detection (works with 99% of all themes).  - Per-app customization (panel color, opacity) - Configurable text and panel coloring - Configurable text and icon shadowing - Customizable transition times - Window tracking with support for shortcuts</p></description>
+    <description><p>Miss dynamic panel transparency in 3.32 and up? Try the original dynamic panel extension on all recent Gnome versions and with much more customization! This extension will fade your top panel to nothingness when there are no maximized windows present! Never again will the panel be abruptly darkened.</p><p>May be incompatible with some extensions that make extensive changes to the panel.</p><p>If your theme isn&apos;t working correctly with this extension enable &apos;Remove Excessive Panel Styling&apos; in the Background section of preferences. This particularly impacts the default *Ubuntu* theme!</p><p>New in v32 (in review) - Initial support for 3.34. - Fixes deprecation warnings on 3.34! - Fixes occasional errors when windows are closed.</p><p>New in v31 - Fixes errors in 3.24 on lock and unlock. - Fix support for 3.28.</p><p>New in v29 - Initial 3.32 support.</p><p>General Features: - Theme detection (works with 99% of all themes). - Per-app customization (panel color, opacity) - Configurable text and panel coloring - Configurable text and icon shadowing - Customizable transition times - Window tracking with support for shortcuts</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -8049,7 +8131,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="31"/>
+      <release version="32"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -8084,7 +8166,7 @@
     <id>dynamic_battery_exalm</id>
     <name>Dynamic Battery</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Makes battery indicator show battery charge level more precisely</p></description>
+    <description><p>Makes battery indicator show battery charge level more precisely (OBSOLETE: gnome-shell 3.34.0+ has a better battery out of the box)</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -8260,7 +8342,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="15"/>
+      <release version="16"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -8643,7 +8725,7 @@
     <id>extendedgestures_mpiannucci.github.com</id>
     <name>Extended Gestures</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Adds more touchpad gestures into gnome-shell</p></description>
+    <description><p>Adds more touchpad gestures into gnome-shell when running a Wayland session. PLEASE NOTE: This extension will NOT work with Xorg.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -8657,7 +8739,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="4"/>
+      <release version="5"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -8963,7 +9045,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="3"/>
+      <release version="4"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -9205,29 +9287,6 @@
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
       <value key="shell-extensions::uuid">force-quit@xtranophilist</value>
-    </metadata>
-  </component>
-  <component type="shell-extension">
-    <id>forex_indicator_trifonovkv.gmail.com</id>
-    <name>Forex indicator</name>
-    <summary>GNOME Shell Extension</summary>
-    <description><p>Display Forex quotes</p></description>
-    <icon type="stock">application-x-addon-symbolic</icon>
-    <categories>
-      <category>Addon</category>
-      <category>ShellExtension</category>
-    </categories>
-    <project_license>GPL-2.0+</project_license>
-    <url type="homepage">https://extensions.gnome.org/extension/867/forex-indicator/</url>
-    <screenshots>
-      <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_867.png</image>
-      </screenshot>
-    </screenshots>
-    <metadata>
-      <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
-      <value key="GnomeSoftware::Plugin">shell-extensions</value>
-      <value key="shell-extensions::uuid">forex_indicator@trifonovkv.gmail.com</value>
     </metadata>
   </component>
   <component type="shell-extension">
@@ -9490,7 +9549,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="32"/>
+      <release version="33"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -9652,7 +9711,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="16"/>
+      <release version="17"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -9741,6 +9800,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1488.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="2"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -10083,29 +10145,6 @@
     </metadata>
   </component>
   <component type="shell-extension">
-    <id>gnome-shell-imgur_ttll.de</id>
-    <name>Imgur Screenshot Uploader</name>
-    <summary>GNOME Shell Extension</summary>
-    <description><p>Upload screenshots directly to imgur.com (Deprecated, now gnome-shell-screenshot)</p></description>
-    <icon type="stock">application-x-addon-symbolic</icon>
-    <categories>
-      <category>Addon</category>
-      <category>ShellExtension</category>
-    </categories>
-    <project_license>GPL-2.0+</project_license>
-    <url type="homepage">https://extensions.gnome.org/extension/683/imgur-screenshot-uploader/</url>
-    <screenshots>
-      <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_683.png</image>
-      </screenshot>
-    </screenshots>
-    <metadata>
-      <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
-      <value key="GnomeSoftware::Plugin">shell-extensions</value>
-      <value key="shell-extensions::uuid">gnome-shell-imgur@ttll.de</value>
-    </metadata>
-  </component>
-  <component type="shell-extension">
     <id>gnome-shell-open-terminal_hackunix.org</id>
     <name>GNOME Shell Open Terminal</name>
     <summary>GNOME Shell Extension</summary>
@@ -10164,7 +10203,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="31"/>
+      <release version="40"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -10242,7 +10281,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="9"/>
+      <release version="10"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -10290,6 +10329,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1269.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="10"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -10745,7 +10787,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="24"/>
+      <release version="28"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -10767,11 +10809,11 @@
     <url type="homepage">https://extensions.gnome.org/extension/1045/haguichi-indicator/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1045_8bwjUn2.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1045_HvYnnpV.png</image>
       </screenshot>
     </screenshots>
     <releases>
-      <release version="10"/>
+      <release version="11"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -11035,7 +11077,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="19"/>
+      <release version="20"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -11459,6 +11501,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_545_3pF5sZG.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="66"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -12841,7 +12886,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="28"/>
+      <release version="32"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -13250,7 +13295,7 @@
     <id>mediaplayer_patapon.info</id>
     <name>Media Player Indicator</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>This extension has been retired. There will be no further updates unless someone else takes over maintainership.</p></description>
+    <description><p>This extension has been retired. No one has stepped up to take over maintainership, and there have not been any updates in over a year. It should be removed from this site.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -13406,7 +13451,7 @@
     <project_license>GPL-2.0+</project_license>
     <url type="homepage">https://extensions.gnome.org/extension/352/middle-click-to-close-in-overview/</url>
     <releases>
-      <release version="15"/>
+      <release version="16"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -13482,7 +13527,7 @@
     <id>miniview_thesecretaryofwar.com</id>
     <name>Miniview</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Show a mini-preview of another window (like picture-in-picture on a TV)</p><p>- Left-mouse drag: move preview window - Right-mouse drag (or ctrl + left mouse drag): resize preview window - Scroll wheel: change target window - Double click: raise target window - Shift + F12: toggle preview window - Ctrl + scroll wheel: adjust opacity</p></description>
+    <description><p>Show a preview of another window (like picture-in-picture on a TV)</p><p>Left-mouse drag: move preview window Right-mouse drag (or ctrl + left mouse drag): resize preview window Scroll wheel: change target window Double click: raise target window Shift + F12: toggle preview window (can be changed in preferences) Ctrl + scroll wheel: adjust opacity</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -13492,11 +13537,11 @@
     <url type="homepage">https://extensions.gnome.org/extension/1459/miniview/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1459_ugeJphD.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1459_H01T0kI.png</image>
       </screenshot>
     </screenshots>
     <releases>
-      <release version="3"/>
+      <release version="6"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -13613,24 +13658,6 @@
     </metadata>
   </component>
   <component type="shell-extension">
-    <id>morphine_JasonLG1979.github.io</id>
-    <name>Morphine</name>
-    <summary>GNOME Shell Extension</summary>
-    <description><p>Pause/Stop Media Players when the Session goes Idle via MPRIS.</p></description>
-    <icon type="stock">application-x-addon-symbolic</icon>
-    <categories>
-      <category>Addon</category>
-      <category>ShellExtension</category>
-    </categories>
-    <project_license>GPL-2.0+</project_license>
-    <url type="homepage">https://extensions.gnome.org/extension/1273/morphine/</url>
-    <metadata>
-      <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
-      <value key="GnomeSoftware::Plugin">shell-extensions</value>
-      <value key="shell-extensions::uuid">morphine@JasonLG1979.github.io</value>
-    </metadata>
-  </component>
-  <component type="shell-extension">
     <id>mouse-travel_siilia.fr</id>
     <name>MouseTravel</name>
     <summary>GNOME Shell Extension</summary>
@@ -13742,7 +13769,7 @@
     <id>mprisindicatorbutton_JasonLG1979.github.io</id>
     <name>Mpris Indicator Button</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>A simple MPRIS indicator button.</p></description>
+    <description><p>A full featured MPRIS indicator.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -13752,12 +13779,9 @@
     <url type="homepage">https://extensions.gnome.org/extension/1379/mpris-indicator-button/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1379_ntBuSyY.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1379_m5wR0a8.png</image>
       </screenshot>
     </screenshots>
-    <releases>
-      <release version="5"/>
-    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -13923,7 +13947,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="15"/>
+      <release version="18"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -14171,7 +14195,7 @@
     <id>new-mail-indicator_fthx</id>
     <name>New Mail Indicator</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>An icon beside the date in the topbar to show if there are unread emails when running your email client.</p><p> It checks the notifications in the message tray related to a new mail, no extra configuration needed, very light extension. Do not disable the notifications of your default email client !</p><p> *** It is not a standalone mail checker, you need your email client to be running. *** Please check that the xdg-utils package is installed.</p><p>  Email clients supported at the moment are : Thunderbird, Evolution, Geary, Mailspring. Please ask here to add the client you need. If you report an error, please provide at least the distro &amp; the email client you use.</p><p> Includes some code from https://extensions.gnome.org/extension/1386/notification-counter/ .</p></description>
+    <description><p>An icon beside the date in the topbar to show if there are unread emails when running your email client.</p><p> It checks the notifications in the message tray related to a new mail, no extra configuration needed, very light extension. Do not disable the notifications of your default email client !</p><p> *** It is not a standalone mail checker, you need your email client to be running. *** Please check that the xdg-utils package is installed.</p><p>  Email clients supported at the moment are : Thunderbird, Evolution, Geary, Mailspring. Please ask here to add the client you need. If you report an error, please provide at least the distro &amp; the email client you use.</p><p> Versions 13 and 14 : GNOME 3.36 added, default icons changed to match more themes like Yaru, orange new mail color. Some simple indications are given in the extension.js code if you want to change read/unread icons.</p><p> Includes some code from https://extensions.gnome.org/extension/1386/notification-counter/ .</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -14185,7 +14209,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="11"/>
+      <release version="13"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -14533,7 +14557,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="16"/>
+      <release version="17"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -14646,7 +14670,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="37"/>
+      <release version="43"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -14728,7 +14752,7 @@
   </component>
   <component type="shell-extension">
     <id>obmin_konkor</id>
-    <name>OBMIN Server</name>
+    <name>Obmin</name>
     <summary>GNOME Shell Extension</summary>
     <description><p>One-Click File Sharing for your network. Obmin is lightweight HTTP(S) File Server for GNU/Linux systems.</p><p>Features: ⚫ Easy installation. ⚫ Easy setup just choose file(s) locations and tune Obmin on. ⚫ Doesn&apos;t require ROOT privileges. ⚫ Doesn&apos;t require any special client side installation. ⚫ HTTP transfer protocol available everywhere Linux, OSX, Windows, Android, iOS so. ⚫ More ...</p><p>For more information and how-to see README.md</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
@@ -14744,7 +14768,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="18"/>
+      <release version="19"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -15235,7 +15259,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="36"/>
+      <release version="37"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -15339,7 +15363,7 @@
     <id>pause-night-light_tijnschuurmans.nl</id>
     <name>Pause Night Light</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Disable Night Light for 10 second. A small pause can enable you to scan a colour code (e.g. Crontosign) from your screen.</p></description>
+    <description><p>Disable Night Light for 10 seconds; just long enough to scan a colour code from your screen. (e.g. Crontosign)</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -15536,7 +15560,7 @@
     <url type="homepage">https://extensions.gnome.org/extension/923/ping-indicator/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_923.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_923_ieNrWHo.png</image>
       </screenshot>
     </screenshots>
     <metadata>
@@ -15572,7 +15596,7 @@
     <id>pixel-saver_deadalnix.me</id>
     <name>Pixel Saver</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Pixel Saver is designed to save pixel by fusing activity bar and title bar in a natural way</p></description>
+    <description><p>Pixel Saver is designed to save pixel by fusing activity bar and title bar in a natural way.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -15585,6 +15609,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_723.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="20"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -15906,9 +15933,12 @@
     <url type="homepage">https://extensions.gnome.org/extension/1275/prime-indicator/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1275.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1275_tXi6fyD.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="3"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -16479,7 +16509,7 @@
     <id>randomwallpaper_iflow.space</id>
     <name>Random Wallpaper</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>This extension fetches a random wallpaper from an online source and sets it as desktop background. The desktop background can be updated periodically or manually.</p><p>Online sources: - unsplash.com - desktopper.co - wallheaven.cc - reddit.com - basic JSON APIs or Files (See the GitHub wiki for more information) (Chromecast, Bing, NASA, Google Earth View, etc.)</p><p></p></description>
+    <description><p>Random Wallpapers for Gnome 3 is a gnome-shell extension that fetches a random wallpaper from an online source and sets it as desktop background.</p><p>Features: * Many different online sources with filters * History of previous images * Set lock screen image * Automatic renewal (Auto-Fetching)</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -16493,7 +16523,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="17"/>
+      <release version="18"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -16676,7 +16706,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="9"/>
+      <release version="11"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -16760,7 +16790,7 @@
     <id>remove-dropdown-arrows_mpdeimos.com</id>
     <name>Remove Dropdown Arrows</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Removes the dropdown arrows which were introduced in Gnome 3.10 from the App Menu, System Menu, Input Menu, Access Menu, Places Menu, Applications Menu and any other extension that wants to add dropdown arrows.</p><p>---</p><p>For Gnome 3.22, please see GitHub page for an updated extension (review process is quite slow here).</p></description>
+    <description><p>Removes the dropdown arrows which were introduced in Gnome 3.10 from the App Menu, System Menu, Input Menu, Access Menu, Places Menu, Applications Menu and any other extension that wants to add dropdown arrows.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -16774,7 +16804,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="11"/>
+      <release version="13"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -17163,7 +17193,7 @@
     <id>run-or-raise_edvard.cz</id>
     <name>Run or raise</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Launch or focus the window or define custom shortcuts in a text file</p></description>
+    <description><p>!!!BACKUP!!! your shortcuts.conf before upgrading to this version. Launch or focus the window or define custom shortcuts in a text file</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -17404,7 +17434,7 @@
     <id>scroll-panel_mreditor.github.com</id>
     <name>Scroll Panel</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Scroll above an application&apos;s title to switch between windows on the active workspace, above the clock to switch between virtual workspaces, and abovethe window title to move it to another workspace.</p></description>
+    <description><p>Scroll above an application&apos;s title to switch between windows on the active workspace and above the clock to switch between virtual workspaces.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -17412,8 +17442,13 @@
     </categories>
     <project_license>GPL-2.0+</project_license>
     <url type="homepage">https://extensions.gnome.org/extension/1096/scroll-panel/</url>
+    <screenshots>
+      <screenshot type="default">
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1096.png</image>
+      </screenshot>
+    </screenshots>
     <releases>
-      <release version="6"/>
+      <release version="8"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -17833,7 +17868,7 @@
     <url type="homepage">https://extensions.gnome.org/extension/858/volume-mixer/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_858_BKw0XGp.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_858_tDI7X05.png</image>
       </screenshot>
     </screenshots>
     <releases>
@@ -17849,7 +17884,7 @@
     <id>shellshape_gfxmonk.net</id>
     <name>shellshape</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>A tiling window extension for gnome-shell</p></description>
+    <description><p>(DISCONTINUED) A tiling window extension for gnome-shell</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -18088,7 +18123,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="5"/>
+      <release version="6"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -18229,7 +18264,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="16"/>
+      <release version="17"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -18581,7 +18616,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="13"/>
+      <release version="14"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -18860,6 +18895,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_826.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="23"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -18951,7 +18989,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="25"/>
+      <release version="26"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -19374,6 +19412,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1018_p3LBLdt.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="7"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -20051,7 +20092,7 @@
     <id>touchpad-indicator_orangeshirt</id>
     <name>Touchpad Indicator</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Automatically disable other pointing devices when an external mouse is plugged in.  Optionally, switch the touchpad, trackpoint, fingertouch, touchscreen or a pen device on and off easily from the top panel.</p><p>TouchpadIndicator-extensions.gnome.org-v31 Supports GNOME Shell 3.30 and below. See GitHub for list of known issues.</p><p>(For GNOME Shell 3.32, see: https://github.com/user501254/TouchpadIndicator/issues/35#issuecomment-486425301)</p></description>
+    <description><p>Automatically disable other pointing devices when an external mouse is plugged in.  Optionally, switch the touchpad, trackpoint, fingertouch, touchscreen or a pen device on and off easily from the top panel.</p><p>TouchpadIndicator-extensions.gnome.org-v33 Supports GNOME Shell 3.32 and below. See GitHub for list of known issues.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -20061,7 +20102,7 @@
     <url type="homepage">https://extensions.gnome.org/extension/131/touchpad-indicator/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_131_21PvQcA.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_131_kLtEpGT.png</image>
       </screenshot>
     </screenshots>
     <releases>
@@ -20487,7 +20528,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="14"/>
+      <release version="15"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -20545,7 +20586,7 @@
     <id>unite_hardpixel.eu</id>
     <name>Unite</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Unite is a GNOME Shell extension which makes a few layout tweaks to the top panel and removes window decorations to make it look like Ubuntu Unity Shell.</p><p>- Adds window buttons to the top panel for maximized windows. - Shows current window title in the app menu for maximized windows. - Removes titlebars on maximized windows. - Hides window controls on maximized windows with headerbars. - Moves the date to the right, fixes icons spacing and removes dropdown arrows. - Moves legacy tray icons to the top panel. - Moves notifications to the right. - Hides activities button. - Adds desktop name to the top panel.</p><p>This extension depends on some Xorg utilities. To install them: - Debian/Ubuntu: apt install x11-utils - Fedora/RHEL: dnf install xorg-x11-utils - Arch: pacman -S xorg-xprop</p><p>*Settings are provided to enable/disable or customize the available tweaks. * Since version 2 applications on wayland with client side decorations are supported using CSS.</p></description>
+    <description><p>Unite is a GNOME Shell extension which makes a few layout tweaks to the top panel and removes window decorations to make it look like Ubuntu Unity Shell.</p><p>- Adds window buttons to the top panel for maximized windows. - Shows current window title in the app menu for maximized windows. - Removes titlebars on maximized windows. - Hides window controls on maximized windows with headerbars. - Moves the date to the right, reduces panel spacing and removes dropdown arrows. - Moves legacy tray icons to the top panel. - Moves notifications to the right. - Hides activities button. - Adds desktop name to the top panel.</p><p>This extension depends on some Xorg utilities. To install them: - Debian/Ubuntu: apt install x11-utils - Fedora/RHEL: dnf install xorg-x11-utils - Arch: pacman -S xorg-xprop</p><p>*Settings are provided to enable/disable or customize the available tweaks. * Since version 2 applications on wayland with client side decorations are supported using CSS.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -20559,7 +20600,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="31"/>
+      <release version="32"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -20589,7 +20630,7 @@
     <id>unix-timestamp-clock_se1exin.github.com</id>
     <name>Unix Timestamp Clock</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Show the current unix timestamp as a clock in the top bar</p></description>
+    <description><p>Show the current unix timestamp as a clock in the top bar.</p><p>Copy-paste currently shown timestamp (left mouse button) or current timestamp (any other mouse button) to clipboard</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -20597,6 +20638,11 @@
     </categories>
     <project_license>GPL-2.0+</project_license>
     <url type="homepage">https://extensions.gnome.org/extension/1375/unix-timestamp-clock/</url>
+    <screenshots>
+      <screenshot type="default">
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1375.png</image>
+      </screenshot>
+    </screenshots>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -20607,7 +20653,7 @@
     <id>unlockDialogBackground_sun.wxg_gmail.com</id>
     <name>Unlock dialog background</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Change unlock dialog background. You can change background picture from extension settings</p></description>
+    <description><p>Change unlock dialog background. You can change background picture from extension settings. If you use Ubuntu, install package gir1.2-clutter-1.0 first.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -21086,7 +21132,7 @@
     <id>weatherintheclock_JasonLG1979.github.io</id>
     <name>Weather In The Clock</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Display the current Weather in the Clock.</p></description>
+    <description><p>Display the current Weather in the Clock. GNOME Weather is required for this extension to function.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -21609,7 +21655,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="5"/>
+      <release version="6"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -22377,7 +22423,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="4"/>
+      <release version="11"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
